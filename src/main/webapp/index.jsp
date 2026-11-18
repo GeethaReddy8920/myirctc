@@ -16,9 +16,6 @@
 <label for="password"><b>Password</b></label>
 <input type="password" id="password" name="password" placeholder="Enter Password" required>
 
-<label for="password"><b>Ip adress</b></label>
-<input type="password" id="password" name="password" placeholder="Enter Password" required>
-
 <button type="submit">Login</button>
 <label><input type="checkbox" name="remember"> Remember me</label>
 <p><a href="#">Forgot password?</a></p>
